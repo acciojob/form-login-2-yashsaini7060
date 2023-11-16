@@ -1,4 +1,4 @@
-/*  your css code here. If applicable */
+/* 
 document.addEventListener('DOMContentLoaded', function () {
     var loginForm = document.getElementById('loginForm');
 
@@ -17,4 +17,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
         alert(message);
     });
-});
+}); */
