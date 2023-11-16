@@ -10,11 +10,11 @@ loginForm.addEventListener("submit", (event) => {
   //       var phoneNumber = document.getElementById('pnumber').value;
   //       var email = document.getElementById('email').value;
 
-        var message = "First Name: " + document.getElementById('fname').value + "\n" +
+        alert("First Name: " + document.getElementById('fname').value + "\n" +
                       "Last Name: " + document.getElementById('lname').value + "\n" +
                       "Phone Number: " + document.getElementById('pnumber').value + "\n" +
-                      "Email ID: " + document.getElementById('email').value;
+                      "Email ID: " + document.getElementById('email').value);
 
-        alert(message);
+        // alert(message);
 });
 
